@@ -1,4 +1,4 @@
-👨🏻‍💻Customer Behavior Data Analysis Project
+👨🏻‍💻Customer Behavior Data Analysis Project 
 
 This project represents a complete, industry standard, end-to-end data analytics workflow. This project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
@@ -11,5 +11,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
 <img width="4872" height="2656" alt="amlan_mohanti_project" src="https://github.com/user-attachments/assets/29b2e842-71cf-43b5-90de-e15ca1cf81ef" />
 
