@@ -24,15 +24,15 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 <img width="573" height="331" alt="mera_bhai" src="https://github.com/user-attachments/assets/0a793743-a5f5-456e-a9cd-93064aa3fea0" />
 
 ## 📈 Key Business Insights
-● Boost Subscriptions – Promote exclusive benefits for subscribers.
-● Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” segment.
-● Product Positioning – Highlight top-rated and best-selling products in campaigns. 
-● Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping 
-● Review Discount Policy – Balance sales boosts with margin control. 
+● Boost Subscriptions – Promote exclusive benefits for subscribers.  
+● Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” segment.  
+● Product Positioning – Highlight top-rated and best-selling products in campaigns.  
+● Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping.  
+● Review Discount Policy – Balance sales boosts with margin control.  
 
 ## 📄 Detailed Report
- 
-[Available Here:](Customer_Behavior_Analysis_Report.pdf)
+ Available here:
+[Download Project:](Customer_Behavior_Analysis_Report.pdf)
 
  
  
