@@ -1,5 +1,6 @@
 # 👨🏻‍💻Customer Behavior Data Analysis Project -
 
+## 📌 Project Overview
 This project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
