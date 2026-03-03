@@ -1,6 +1,6 @@
 # 👨🏻‍💻Customer Behavior Data Analysis Project -
 
-This project represents a complete, industry standard, end-to-end data analytics workflow. This project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+This project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
