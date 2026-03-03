@@ -31,8 +31,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ● Review Discount Policy – Balance sales boosts with margin control. 
 
 ## 📄 Detailed Report
- Available here:
-[Download Report](customer_behavior_analysis_case_study.pdf)
+ 
+[Available Here:](Customer_Behavior_Analysis_Report.pdf)
 
  
  
