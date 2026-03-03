@@ -14,3 +14,47 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 <img width="4872" height="2656" alt="amlan_mohanti_project" src="https://github.com/user-attachments/assets/29b2e842-71cf-43b5-90de-e15ca1cf81ef" />
 
+## 🛠 Tools Used
+- SQL
+- Python
+- Power BI
+- PowerPoint Presentation
+
+## 📊 Dashboard Preview
+<img width="573" height="331" alt="mera_bhai" src="https://github.com/user-attachments/assets/0a793743-a5f5-456e-a9cd-93064aa3fea0" />
+
+## 📈 Key Business Insights
+● Boost Subscriptions – Promote exclusive benefits for subscribers.
+● Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” segment.
+● Product Positioning – Highlight top-rated and best-selling products in campaigns. 
+● Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping 
+● Review Discount Policy – Balance sales boosts with margin control. 
+
+## 📄 Detailed Report
+ Available here:
+[Download Report](customer_behavior_analysis_case_study.pdf)
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
